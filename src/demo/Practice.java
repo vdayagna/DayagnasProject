@@ -7,6 +7,8 @@ public class Practice {
 		System.out.println("Need more practice");
 		
 		System.out.println(" Good Morning");
+		
+		System.out.println("Push from Eclipse");
 
 	}
 
